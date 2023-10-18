@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/longhoook/static/css/main.31d6cfe0.css",
-    "main.js": "/longhoook/static/js/main.f491ffb8.js",
-    "index.html": "/longhoook/index.html",
-    "main.f491ffb8.js.map": "/longhoook/static/js/main.f491ffb8.js.map"
+    "main.css": "/longhook/static/css/main.31d6cfe0.css",
+    "main.js": "/longhook/static/js/main.f491ffb8.js",
+    "index.html": "/longhook/index.html",
+    "main.f491ffb8.js.map": "/longhook/static/js/main.f491ffb8.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
