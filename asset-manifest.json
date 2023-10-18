@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/longhoook/static/css/main.073c9b0a.css",
+    "main.js": "/longhoook/static/js/main.28d8f57d.js",
+    "static/js/787.82144b4e.chunk.js": "/longhoook/static/js/787.82144b4e.chunk.js",
+    "static/media/logo.svg": "/longhoook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/longhoook/index.html",
+    "main.073c9b0a.css.map": "/longhoook/static/css/main.073c9b0a.css.map",
+    "main.28d8f57d.js.map": "/longhoook/static/js/main.28d8f57d.js.map",
+    "787.82144b4e.chunk.js.map": "/longhoook/static/js/787.82144b4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.28d8f57d.js"
+  ]
+}
