@@ -26,21 +26,23 @@ h2 {
     height: 75%;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: top;
     color: white;
+    width: 75%;
 }
 
 #hookEntry {
     display: flex;
     flex-direction: column;
+    margin-bottom: 2rem;
 }
 
-textarea {
-    background-color: #4169E1;
-    height: 200px;
-    width: 100vw;
+label {
+    margin-bottom: 1rem;
 }
 
 #hookOutput {
-    
+    background-color: #4169E1;
+    height: 150px;
+    display: flex;
 }

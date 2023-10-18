@@ -5,10 +5,12 @@ function App() {
   const [text, setText] = useState('');
 
   const handleCopy = async () => {
+    const whitespace = (" ").repeat(280 - text.length)
+    const newText = text + whitespace
     // Copy the text inside the text field
-    await navigator.clipboard.writeText(text).then(() => {
+    await navigator.clipboard.writeText(newText).then(() => {
       // Alert the copied text
-      alert("Copied the text: " + text);
+      alert("Copied the text: " + newText);
     });
   };
 
@@ -26,12 +28,14 @@ function App() {
             onChange={(event) => setText(event.target.value)}
           />
         </section>
-        <section id='hookOutput'>
-        <textarea
-          value={text}
-        />
-        <button onClick={handleCopy}>Copy to clipboard</button>
-      </section>
+        <p>Click to Copy 👇🏻</p>
+        <button
+          id='hookOutput'
+          onClick={handleCopy}
+        >
+          {text}
+        </button>
+        <p>The <b>See More</b> button on 𝕏 will hide everything after this copied text.</p>
       </section>
     </main>
   );
