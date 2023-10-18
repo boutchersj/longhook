@@ -46,3 +46,7 @@ label {
     height: 150px;
     display: flex;
 }
+
+a {
+    color: yellow;
+}
