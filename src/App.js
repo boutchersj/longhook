@@ -35,7 +35,7 @@ function App() {
         >
           {text}
         </button>
-        <p>The <b>See More</b> button on 𝕏 will hide everything after this copied text.</p>
+        <p>The <b>Show more</b> button on 𝕏 will hide everything after this copied text.</p>
       </section>
       <a href="https://twitter.com/StevenBoutcher" target='_blank' rel="noopener noreferrer">Talk to the developer</a>
     </main>
