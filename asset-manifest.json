@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/longhook/static/css/main.cd7c7e9b.css",
-    "main.js": "/longhook/static/js/main.0f49f939.js",
+    "main.js": "/longhook/static/js/main.043446e7.js",
     "index.html": "/longhook/index.html",
     "main.cd7c7e9b.css.map": "/longhook/static/css/main.cd7c7e9b.css.map",
-    "main.0f49f939.js.map": "/longhook/static/js/main.0f49f939.js.map"
+    "main.043446e7.js.map": "/longhook/static/js/main.043446e7.js.map"
   },
   "entrypoints": [
     "static/css/main.cd7c7e9b.css",
-    "static/js/main.0f49f939.js"
+    "static/js/main.043446e7.js"
   ]
 }
